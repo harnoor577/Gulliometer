@@ -50,7 +50,7 @@
     "\n",
     "if __name__==\"__main__\":\n",
     "\n",
-    "    im = cv2.imread('/Users/harnoormann/Desktop/Mann/10cm interval Niagara 15may/1.jpg', 1)\n",
+    "    im = cv2.imread('/Users/MANN/Gulliometer/image.jpg', 1)\n",
     "    img = cv2.resize(im, (6000, 3000))\n",
     "    \n",
     "    \n",
